@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.4.1" //IMPORTANT discord.js uses different versions it is important to update the versions manually
+    "discord.js": "^12.4.1" // IMPORTANT discord.js uses different versions it is important to update the versions manually
   }
 }
